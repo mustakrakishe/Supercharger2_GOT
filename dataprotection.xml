@@ -120,7 +120,7 @@
       <bReadPermission>true</bReadPermission>
       <bWritePermission>true</bWritePermission>
     </L_ProjectdataProtection>
-    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection13" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
       <iID>7</iID>
       <iSecuritylevelID>1</iSecuritylevelID>
       <iProjectdataID>4</iProjectdataID>
@@ -132,10 +132,34 @@
       <bReadPermission>true</bReadPermission>
       <bWritePermission>true</bWritePermission>
     </L_ProjectdataProtection>
-    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection14" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
       <iID>8</iID>
       <iSecuritylevelID>2</iSecuritylevelID>
       <iProjectdataID>4</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+      <iID>13</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>7</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+      <iID>14</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>7</iProjectdataID>
       <bDataView>true</bDataView>
       <bDataEdit>true</bDataEdit>
       <bDataSave>true</bDataSave>
