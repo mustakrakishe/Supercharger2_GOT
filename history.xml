@@ -5,9 +5,9 @@
       <iProjectdataID>1</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2020-03-16T11:40:13.5110676+02:00</dtUpdateDate>
+      <dtUpdateDate>2020-05-19T14:06:32.5143094+03:00</dtUpdateDate>
       <dtFileTimeStamp>2019-09-09T08:31:09.2414282+03:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2020-03-16T11:40:13.5110676+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2020-05-19T14:06:32.5143094+03:00</dtFileUpdateDate>
       <iFileSize>128</iFileSize>
       <szMD5val>VbRJ/b4INW1JDsrZGaawCg==</szMD5val>
       <szProjectdataName>git.prj</szProjectdataName>
@@ -50,11 +50,11 @@
       <iProjectdataID>6</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2020-03-18T13:11:14.7349078+02:00</dtUpdateDate>
+      <dtUpdateDate>2020-05-25T09:41:58.0265206+03:00</dtUpdateDate>
       <dtFileTimeStamp>2019-09-09T08:31:09.5870016+03:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2020-03-18T13:11:14.7349078+02:00</dtFileUpdateDate>
-      <iFileSize>69313</iFileSize>
-      <szMD5val>zTUkHEFC4NxVe4lD0IGDOw==</szMD5val>
+      <dtFileUpdateDate>2020-05-25T09:41:58.0265206+03:00</dtFileUpdateDate>
+      <iFileSize>78444</iFileSize>
+      <szMD5val>RfmLLSC7PGTjSR9MraH/lg==</szMD5val>
       <szProjectdataName>GTEFILE</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
@@ -62,9 +62,9 @@
       <iProjectdataID>4</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2020-03-16T11:40:13.5579624+02:00</dtUpdateDate>
+      <dtUpdateDate>2020-05-19T14:06:32.5611462+03:00</dtUpdateDate>
       <dtFileTimeStamp>2020-01-27T16:36:39.1924903+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2020-03-16T11:40:13.5579624+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2020-05-19T14:06:32.5611462+03:00</dtFileUpdateDate>
       <iFileSize>80</iFileSize>
       <szMD5val>arSE7FAx/vDUvzVTzyJ5Uw==</szMD5val>
       <szProjectdataName>git.pji</szProjectdataName>
@@ -74,14 +74,14 @@
       <iProjectdataID>7</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2020-03-16T11:40:13.5423799+02:00</dtUpdateDate>
-      <dtFileTimeStamp>2020-03-16T11:40:13.5423799+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2020-03-16T11:40:13.5423799+02:00</dtFileUpdateDate>
+      <dtUpdateDate>2020-05-19T14:06:32.5299328+03:00</dtUpdateDate>
+      <dtFileTimeStamp>2020-05-19T14:06:32.5299328+03:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2020-05-19T14:06:32.5299328+03:00</dtFileUpdateDate>
       <iFileSize>8</iFileSize>
       <szMD5val>feo2Kz+sjgCVaklSo9T0dA==</szMD5val>
       <szProjectdataName>FuncSecurityLevel.fsl</szProjectdataName>
     </D_History>
-    <D_DBVersion diffgr:id="D_DBVersion37" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+    <D_DBVersion diffgr:id="D_DBVersion53" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>
