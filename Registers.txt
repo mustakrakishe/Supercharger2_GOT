@@ -1,3 +1,3 @@
-GD50	- Название графика
-GD401	- Log значения Тп1_н
-GD402	- Base Screen-4 Graph-Historical Trend Graph-Basic Settings-Data-Device-Graph Information
+GD50		- Номер просматриваемого параметра
+GD401...499	- Значения входных сигналов тех. параметров
+GD402		- Base Screen-4 Graph-Historical Trend Graph-Basic Settings-Data-Device-Graph Information
