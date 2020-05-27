@@ -50,11 +50,11 @@
       <iProjectdataID>6</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2020-05-27T12:10:10.8757743+03:00</dtUpdateDate>
+      <dtUpdateDate>2020-05-27T13:18:58.3426862+03:00</dtUpdateDate>
       <dtFileTimeStamp>2019-09-09T08:31:09.5870016+03:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2020-05-27T12:10:10.8757743+03:00</dtFileUpdateDate>
-      <iFileSize>60566</iFileSize>
-      <szMD5val>ixt2w/D9T6ETOWeD4V1o9g==</szMD5val>
+      <dtFileUpdateDate>2020-05-27T13:18:58.3426862+03:00</dtFileUpdateDate>
+      <iFileSize>60843</iFileSize>
+      <szMD5val>iE5FNLlWbW7B9tMx3Y5i0w==</szMD5val>
       <szProjectdataName>GTEFILE</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
@@ -81,7 +81,7 @@
       <szMD5val>feo2Kz+sjgCVaklSo9T0dA==</szMD5val>
       <szProjectdataName>FuncSecurityLevel.fsl</szProjectdataName>
     </D_History>
-    <D_DBVersion diffgr:id="D_DBVersion7" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+    <D_DBVersion diffgr:id="D_DBVersion5" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>
