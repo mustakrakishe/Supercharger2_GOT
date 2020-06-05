@@ -84,21 +84,7 @@
       <ucReserve>0</ucReserve>
       <ucFileType>4</ucFileType>
     </D_Projectdata>
-    <D_Projectdata diffgr:id="D_Projectdata7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
-      <iID>7</iID>
-      <szName>FuncSecurityLevel.fsl</szName>
-      <dtCreateDate>2020-05-19T14:06:32.4518244+03:00</dtCreateDate>
-      <dtUpdateDate>2020-05-19T14:06:32.4518244+03:00</dtUpdateDate>
-      <bScrapFlag>false</bScrapFlag>
-      <bStructuredStorage>true</bStructuredStorage>
-      <iCreaterID>0</iCreaterID>
-      <ucProductType>1</ucProductType>
-      <ucFolderType>16</ucFolderType>
-      <uiFolderNo>0</uiFolderNo>
-      <ucReserve>0</ucReserve>
-      <ucFileType>1</ucFileType>
-    </D_Projectdata>
-    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+    <D_DBVersion diffgr:id="D_DBVersion4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>
