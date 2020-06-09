@@ -144,6 +144,30 @@
       <bReadPermission>true</bReadPermission>
       <bWritePermission>true</bWritePermission>
     </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+      <iID>13</iID>
+      <iSecuritylevelID>1</iSecuritylevelID>
+      <iProjectdataID>7</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
+    <L_ProjectdataProtection diffgr:id="L_ProjectdataProtection14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+      <iID>14</iID>
+      <iSecuritylevelID>2</iSecuritylevelID>
+      <iProjectdataID>7</iProjectdataID>
+      <bDataView>true</bDataView>
+      <bDataEdit>true</bDataEdit>
+      <bDataSave>true</bDataSave>
+      <bScrapFlag>false</bScrapFlag>
+      <bListViewPermission>true</bListViewPermission>
+      <bReadPermission>true</bReadPermission>
+      <bWritePermission>true</bWritePermission>
+    </L_ProjectdataProtection>
     <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
